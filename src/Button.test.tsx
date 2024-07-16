@@ -2,6 +2,14 @@ import { fireEvent, render, screen } from "@testing-library/react";
 import Button from "./Button";
 
 describe("Button component", () => {
+  it("Deve renderizar o component corretamente", () => {
+    const { container } = render(
+      <Button disabled={false} onClick={() => {}}>
+        Click me
+      </Button>
+    );
+    expect(container).toBeInTheDocument();
+  });
   it("Deve renderizar o botão com o texto correto", () => {
     render(
       <Button disabled={false} onClick={() => {}}>
