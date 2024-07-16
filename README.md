@@ -1,46 +1,18 @@
-# Getting Started with Create React App
+O código implementa um componente App que gerencia o estado da mensagem e do contador, e um componente Button que é responsável por renderizar um botão com estilos e comportamentos específicos. O componente App passa as informações relevantes (como o valor do contador) para o componente Button através de props.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Captura de ecrã de 2024-07-16 10-29-12](https://github.com/user-attachments/assets/1f240cfc-140e-40f5-bbf2-a3017c50f1b7)
+![Captura de ecrã de 2024-07-16 10-29-19](https://github.com/user-attachments/assets/ab78b992-1a15-40c1-8707-a8cc883a6cd7)
+![Captura de ecrã de 2024-07-16 10-29-25](https://github.com/user-attachments/assets/2b8ad193-3620-41fe-a8c3-4034968760fb)
+![Captura de ecrã de 2024-07-16 10-29-33](https://github.com/user-attachments/assets/deb680c4-eb19-4686-94e2-0155a2ee483a)
+![Captura de ecrã de 2024-07-16 10-29-38](https://github.com/user-attachments/assets/59c9d7c9-f4de-4d77-85ec-6bbae6a3d528)
+![Captura de ecrã de 2024-07-16 10-29-42](https://github.com/user-attachments/assets/2f2a3997-ef8a-4639-9bcf-17500f2cc9db)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Captura de ecrã de 2024-07-16 10-29-55](https://github.com/user-attachments/assets/36202cdc-4b5f-4760-ab17-c586c861ede5)
+![Captura de ecrã de 2024-07-16 10-29-59](https://github.com/user-attachments/assets/53a3a97a-20e8-4f8e-b010-b495ef3a7461)
